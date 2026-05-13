@@ -1,6 +1,6 @@
-# GridScope — Open-Source Industrial SCADA Dashboard
+# GridScope — Modern SCADA Dashboard
 
-A modern, vendor-independent SCADA desktop application built with Python + PyQt6.
+A modern SCADA desktop application built with Python + PyQt6.
 
 ## Features
 
