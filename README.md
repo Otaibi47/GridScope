@@ -48,7 +48,7 @@ nexscada/
 - [ ] OPC-UA / Modbus real device connection
 - [ ] PostgreSQL historian backend
 - [ ] User authentication & roles
-- [ ] Demo website (nexscada.io)
+- [ ] Demo website (GridScope.io)
 - [ ] Plugin system for custom widgets
 - [ ] Report generation (PDF export)
 
