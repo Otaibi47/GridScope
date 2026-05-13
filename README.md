@@ -2,6 +2,14 @@
 
 A modern SCADA desktop application built with Python + PyQt6.
 
+## Overview
+
+![Overview](assets/screenshots/GridScope.png)
+
+![Topology](assets/screenshots/GridScope1.1.png)
+
+![Alarms](assets/screenshots/GridScope1.2.png)
+
 ## Features
 
 | Module | Description |
