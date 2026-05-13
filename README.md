@@ -1,4 +1,4 @@
-# NexSCADA — Open-Source Industrial SCADA Dashboard
+# GridScope — Open-Source Industrial SCADA Dashboard
 
 A modern, vendor-independent SCADA desktop application built with Python + PyQt6.
 
